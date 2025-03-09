@@ -1,21 +1,21 @@
 {
   "format_version": 2,
   "header": {
-    "name": "SCP-173 Pack", // Pack name
-    "description": "Adds the terrifying SCP-173 entity to your Minecraft world!", // Pack description
-    "uuid": "35732ca8-8056-4120-bf09-e50732a6707a", // Replace with a unique ID
-    "version": [1, 0, 0], // Pack version
-    "min_engine_version": [1, 20, 0] // Minimum game version required
+    "name": "Containment Breach Pack",
+    "description": "Step into the world of anomalies and terror with the Containment Breach Pack. Featuring SCP-173 and other chilling surprises!",
+    "uuid": "123e4567-e89b-12d3-a456-426614174000", // Optional pack-level UUID
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
-      "type": "resources", // For the resource pack
-      "uuid": "ec662148-f983-4b69-966f-9f1f2487f3e3", // Replace with a unique ID
+      "type": "resources",
+      "uuid": "abcdef12-3456-7890-abcd-ef1234567890", // Unique UUID for resources
       "version": [1, 0, 0]
     },
     {
-      "type": "data", // For the behavior pack
-      "uuid": "f88da518-e51a-4ca4-aeca-5fa175b2b598", // Replace with a unique ID
+      "type": "data",
+      "uuid": "abcdef98-7654-3210-fedc-ba9876543210", // Unique UUID for behavior
       "version": [1, 0, 0]
     }
   ]
