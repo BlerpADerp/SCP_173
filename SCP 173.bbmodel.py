@@ -71,3 +71,17 @@ assets/yourmodid/textures/entity/scp_173.png
         "default": "yourmodid:textures/entity/scp_173.png"
     }
 }
+"minecraft:entity": {
+  "description": {
+    "identifier": "scp_pack:scp_173",
+    "materials": {
+      "default": "entity/scp_173"
+    },
+    "textures": {
+      "default": "entity/scp_173"
+    },
+    "geometry": {
+      "default": "geometry.scp_173"
+    }
+  }
+}
