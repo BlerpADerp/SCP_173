@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "SCP-173 Pack", // Pack name
+    "description": "Adds the terrifying SCP-173 entity to your Minecraft world!", // Pack description
+    "uuid": "35732ca8-8056-4120-bf09-e50732a6707a", // Replace with a unique ID
+    "version": [1, 0, 0], // Pack version
+    "min_engine_version": [1, 20, 0] // Minimum game version required
+  },
+  "modules": [
+    {
+      "type": "resources", // For the resource pack
+      "uuid": "ec662148-f983-4b69-966f-9f1f2487f3e3", // Replace with a unique ID
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "data", // For the behavior pack
+      "uuid": "f88da518-e51a-4ca4-aeca-5fa175b2b598", // Replace with a unique ID
+      "version": [1, 0, 0]
+    }
+  ]
+}
