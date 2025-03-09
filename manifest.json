@@ -3,7 +3,6 @@
   "header": {
     "name": "Containment Breach Pack",
     "description": "Step into the world of anomalies and terror with the Containment Breach Pack. Featuring SCP-173 and other chilling surprises!",
-    "uuid": "123e4567-e89b-12d3-a456-426614174000", // Optional pack-level UUID
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
