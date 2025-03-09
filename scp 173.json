@@ -1,0 +1,34 @@
+{
+  "minecraft:entity": {
+    "description": {
+      "identifier": "scp_pack:scp_173", // Unique identifier
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:health": {
+        "value": 100,
+        "max": 100
+      },
+      "minecraft:movement": {
+        "value": 0.2
+      },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 1.7
+      },
+      "minecraft:pushable": {
+        "is_pushable": false
+      },
+      "minecraft:look_at": {
+        "search_range": 16
+      },
+      "minecraft:behavior.float": {},
+      "minecraft:behavior.look_at_player": {
+        "probability": 1.0
+      }
+      // Add more behaviors (like movement when unseen) here
+    }
+  }
+}
