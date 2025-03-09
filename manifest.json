@@ -9,12 +9,12 @@
   "modules": [
     {
       "type": "resources",
-      "uuid": "abcdef12-3456-7890-abcd-ef1234567890", // Unique UUID for resources
+      "uuid": "abcdef12-3456-7890-abcd-ef1234567890",
       "version": [1, 0, 0]
     },
     {
       "type": "data",
-      "uuid": "abcdef98-7654-3210-fedc-ba9876543210", // Unique UUID for behavior
+      "uuid": "abcdef98-7654-3210-fedc-ba9876543210",
       "version": [1, 0, 0]
     }
   ]
